@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 5dcfc6382351ac74890ed1a508f2608d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6071145622690330281
+    second: SlediOlena_0
+  - first:
+      213: 8737372973265801454
+    second: SlediOlena_1
+  - first:
+      213: 1311034758243631232
+    second: SlediOlena_2
+  - first:
+      213: 4921702220339527309
+    second: SlediOlena_3
+  - first:
+      213: 826057460674932057
+    second: SlediOlena_4
+  - first:
+      213: 712136015271023183
+    second: SlediOlena_5
+  - first:
+      213: 6253078931457649951
+    second: SlediOlena_6
+  - first:
+      213: 2969181545827790608
+    second: SlediOlena_7
+  - first:
+      213: -4654417418124145900
+    second: SlediOlena_8
+  - first:
+      213: 6158507246627712068
+    second: SlediOlena_9
+  - first:
+      213: 8856733616082810405
+    second: SlediOlena_10
+  - first:
+      213: -8797328626297616797
+    second: SlediOlena_11
+  - first:
+      213: -209389460842216375
+    second: SlediOlena_12
+  - first:
+      213: -7075569391085136135
+    second: SlediOlena_13
+  - first:
+      213: -4921963578224735167
+    second: SlediOlena_14
+  - first:
+      213: 4971220350927648282
+    second: SlediOlena_15
+  - first:
+      213: 2003319593191864487
+    second: SlediOlena_16
+  - first:
+      213: 6922867464378572090
+    second: SlediOlena_17
+  - first:
+      213: 6510438150807429599
+    second: SlediOlena_18
+  - first:
+      213: -8261179758599535654
+    second: SlediOlena_19
+  - first:
+      213: 4888375140371890813
+    second: SlediOlena_20
+  - first:
+      213: 5011122313557450807
+    second: SlediOlena_21
+  - first:
+      213: 4092781138759014037
+    second: SlediOlena_22
+  - first:
+      213: 1928663987359833791
+    second: SlediOlena_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlediOlena_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 720
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ff1c07ca014450800000000000000
+      internalID: 6071145622690330281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 757
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee05b953d62614970800000000000000
+      internalID: 8737372973265801454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 738
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0804d4d9a2bb13210800000000000000
+      internalID: 1311034758243631232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 702
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eb695d7166d4440800000000000000
+      internalID: 4921702220339527309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 506
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d279342eeb67b00800000000000000
+      internalID: 826057460674932057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 546
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42ddfdcee302e900800000000000000
+      internalID: 712136015271023183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 535
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d230e682667c650800000000000000
+      internalID: 6253078931457649951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 475
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fe5b072e6a43920800000000000000
+      internalID: 2969181545827790608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 519
+        width: 108
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bc154b400386fb0800000000000000
+      internalID: -4654417418124145900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 490
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ce9ed26b9677550800000000000000
+      internalID: 6158507246627712068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 508
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52670e08c4079ea70800000000000000
+      internalID: 8856733616082810405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 464
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366c721893c99e580800000000000000
+      internalID: -8797328626297616797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 277
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9440ace0569181df0800000000000000
+      internalID: -209389460842216375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 318
+        width: 107
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f65eb470278ecd90800000000000000
+      internalID: -7075569391085136135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 304
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c018a043ca1bbb0800000000000000
+      internalID: -4921963578224735167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_15
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 262
+        width: 110
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a163c3d02925df440800000000000000
+      internalID: 4971220350927648282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 262
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8f7c35e883dcb10800000000000000
+      internalID: 2003319593191864487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_17
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 219
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dd469a747f21060800000000000000
+      internalID: 6922867464378572090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_18
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 251
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1270f1109b95a50800000000000000
+      internalID: 6510438150807429599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 207
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3070777c46a5d80800000000000000
+      internalID: -8261179758599535654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_20
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 32
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7287ba5a4ff6d340800000000000000
+      internalID: 4888375140371890813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_21
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 74
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73020a1b1351b8540800000000000000
+      internalID: 5011122313557450807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_22
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 59
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596562fd2ca7cc830800000000000000
+      internalID: 4092781138759014037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlediOlena_23
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 18
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbedba19dadf3ca10800000000000000
+      internalID: 1928663987359833791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SlediOlena_0: 6071145622690330281
+      SlediOlena_1: 8737372973265801454
+      SlediOlena_10: 8856733616082810405
+      SlediOlena_11: -8797328626297616797
+      SlediOlena_12: -209389460842216375
+      SlediOlena_13: -7075569391085136135
+      SlediOlena_14: -4921963578224735167
+      SlediOlena_15: 4971220350927648282
+      SlediOlena_16: 2003319593191864487
+      SlediOlena_17: 6922867464378572090
+      SlediOlena_18: 6510438150807429599
+      SlediOlena_19: -8261179758599535654
+      SlediOlena_2: 1311034758243631232
+      SlediOlena_20: 4888375140371890813
+      SlediOlena_21: 5011122313557450807
+      SlediOlena_22: 4092781138759014037
+      SlediOlena_23: 1928663987359833791
+      SlediOlena_3: 4921702220339527309
+      SlediOlena_4: 826057460674932057
+      SlediOlena_5: 712136015271023183
+      SlediOlena_6: 6253078931457649951
+      SlediOlena_7: 2969181545827790608
+      SlediOlena_8: -4654417418124145900
+      SlediOlena_9: 6158507246627712068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

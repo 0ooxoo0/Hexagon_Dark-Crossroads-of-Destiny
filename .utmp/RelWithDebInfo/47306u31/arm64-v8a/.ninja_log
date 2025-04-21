@@ -1,0 +1,12 @@
+# ninja log v5
+109	873	7668303872238907	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c37801ce0a7fcc68
+876	1677	7668303879433014	C:/.Programm/GitRepositories/Hexagon_Dark-Crossroads-of-Destiny/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/47306u31/obj/arm64-v8a/libswappywrapper.so	4e853093028d374b
+53	3622	7668303900141990	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5fed61c57238846e
+64	3648	7668303899882669	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2214d1f4178f105a
+22	3671	7668303900890673	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e0ed441f6cc8b699
+0	3709	7668303902084027	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e5f1843b8a596557
+96	3724	7668303902133894	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7e23588be07f6f63
+80	3903	7668303904068888	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9cbbaccc86404760
+33	4105	7668303906069890	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b5e264e93bb69c92
+11	4185	7668303906852092	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	62cdddcfba40aad5
+4186	4389	7668303908906536	C:/.Programm/GitRepositories/Hexagon_Dark-Crossroads-of-Destiny/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/47306u31/obj/arm64-v8a/libgame.so	c181c4c4f2d9be12
