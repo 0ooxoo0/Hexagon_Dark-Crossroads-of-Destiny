@@ -1,6 +1,4 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.Windows;
 
 public class CharacterComtroller : MonoBehaviour
 {
@@ -17,6 +15,7 @@ public class CharacterComtroller : MonoBehaviour
 
     public void AnimRotation(float x, float y, float speed)
     {
+
         anim.SetFloat("x", x);
         anim.SetFloat("y", y);
         anim.SetFloat("Speed", speed);

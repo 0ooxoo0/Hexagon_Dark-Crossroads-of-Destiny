@@ -8,6 +8,9 @@ public class PlayerGovorit : MonoBehaviour
     [SerializeField] private RectTransform textContainer;
     [SerializeField] private float typingSpeed;
     private Coroutine typingCoroutine;
+
+    [SerializeField] private AudioClip StartSound;
+    [SerializeField] private AudioClip typeSound;
     public void GovorStart(TextMeshProUGUI text)
     {
         if (typingCoroutine != null) StopCoroutine(typingCoroutine);
@@ -18,11 +21,23 @@ public class PlayerGovorit : MonoBehaviour
     private IEnumerator Govor(TextMeshProUGUI text)
     {
         textComponent.text = "";
+        UpdateTextContainerSize();
+        if (StartSound) AudioSource.PlayClipAtPoint(StartSound, Camera.main.transform.position);
+        yield return new WaitForSeconds(0.2f);
         foreach (char letter in text.text.ToCharArray())
         {
             textComponent.text += letter;
             // Обновляем размер контейнера
             UpdateTextContainerSize();
+
+
+            if (typeSound)
+            {
+                float volume = Random.Range(0f, 1f);
+                if(volume > 0.4f)
+                AudioSource.PlayClipAtPoint(typeSound, Camera.main.transform.position, volume);
+            }
+
             yield return new WaitForSeconds(typingSpeed);
         }
 
